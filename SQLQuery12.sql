@@ -1,0 +1,18 @@
+CREATE TABLE tools
+(id INT IDENTITY PRIMARY KEY, 
+tool NVARCHAR,
+)
+
+--EXERCICE 3
+CREATE TABLE [dbo].[frameworks]
+(
+[id] INT IDENTITY PRIMARY KEY, 
+[name] NVARCHAR(50),
+)
+
+--EXERCICE 4
+CREATE TABLE [dbo].[libraries]
+(
+[id] INT IDENTITY PRIMARY KEY (1,1), 
+library NVARCHAR(50),
+)

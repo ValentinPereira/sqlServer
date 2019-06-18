@@ -1,0 +1,1 @@
+--Même principe que l'exercice 1 mais avec 5 mo.

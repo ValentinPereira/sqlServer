@@ -1,0 +1,1 @@
+CREATE DATABASE students; --Crée une base de donnée student via la requête

@@ -1,0 +1,1 @@
+DROP DATABASE frameworks; --supprime avec la commande drop frameworks--
